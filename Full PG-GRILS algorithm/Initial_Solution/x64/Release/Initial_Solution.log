@@ -1,0 +1,66 @@
+﻿  Initial_Solution.cpp
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(36,9): warning C4005: “min”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(197,9):
+      参见“min”的前一个定义
+  
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(37,9): warning C4005: “max”: 宏重定义
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(193,9):
+      参见“max”的前一个定义
+  
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(652,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(707,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(711,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(712,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(965,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(1179,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(1616,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(1751,43): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(1985,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2045,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2132,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2136,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2137,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2188,68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2859,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2861,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2870,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2878,54): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(2911,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3190,35): warning C4101: “m”: 未引用的局部变量
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3190,27): warning C4101: “tt”: 未引用的局部变量
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3745,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3811,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3813,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3838,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3839,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3840,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3841,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3860,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3895,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3925,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3946,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3970,41): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3972,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(3973,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4279,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4284,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4293,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4394,10): warning C4002: 类函数宏的调用“max”参数过多
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4394,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4428,12): warning C4305: “-=”: 从“double”到“float”截断
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4504,13): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4523,15): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4545,12): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4576,12): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4597,12): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4609,11): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4611,11): warning C4566: 由通用字符名称“\u2705”表示的字符不能在当前代码页(936)中表示出来
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4677,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4739,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\Initial_Solution\Initial_Solution.cpp(4774,10): warning C4566: 由通用字符名称“\u2705”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码
+  1 of 390 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Initial_Solution.vcxproj -> D:\A论文\3——ejor的GIRLS算法论文\ejor\实验\Initial_Solution\x64\Release\Initial_Solution.exe
