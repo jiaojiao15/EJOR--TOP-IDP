@@ -114,7 +114,7 @@ Restricted PG-GRILS, Full PG-GRILS, and CPLEX.
 | `ALNS_Raw` | Table 4 | Objective value and computational time for each of the ten independent ALNS runs |
 | `Restricted_PGGRILS_Raw` | Table 4 | Objective value and computational time for each of the ten independent Restricted PG-GRILS runs |
 | `Full_PGGRILS_Raw` | Table 3 | Objective value and computational time for each of the ten independent Full PG-GRILS runs |
-| `CPLEX_Results` | Table 3 | Best feasible value, best bound, computational time, and termination status obtained by CPLEX |
+| `CPLEX_Results` | Table 3 | Best feasible value, best bound, and computational time obtained by CPLEX |
 
 In the manuscript:
 - **Table 3** is obtained from the Full PG-GRILS and CPLEX columns in `Main_Summary`.
@@ -133,18 +133,6 @@ This workbook contains the operator analysis, temporal-refinement analysis, init
 | `Initialization_Heuristics` | Table 5 and Fig. 10 | Results of the HCP-only, PO-only, and TSI-only initialization configurations; the corresponding initial-solution data are used for Fig. 10 |
 | `Initialization_Ablation` | Fig. 11 | Results of the complete hybrid strategy and the variants obtained by removing HCP, PO, or TSI |
 | `UCB_Analysis` | Fig. 12 | Comparison of MeanObj and StdObj with and without the UCB-guided heuristic selection mechanism |
-
-More specifically:
-
-- **Fig. 7** is calculated by comparing the MeanObj of TCR, PDP, and TCR+PDP with the MeanObj of the standard removal baseline under the Restricted PG-GRILS framework.
-- **Fig. 8** reports the MeanObj values of TCR, PDP, and TCR+PDP under the Full PG-GRILS framework.
-- **Fig. 9** reports the relative MeanObj improvement obtained by temporal refinement:
-  
-  `Improvement (%) = (MeanObj_with_TR - MeanObj_without_TR) /  MeanObj_without_TR × 100`.
-  
-- **Table 5** is obtained from the HCP-only, PO-only, and TSI-only columns in `Initialization_Heuristics`.
-- **Fig. 11** reports the average MeanObj of the complete hybrid initialization strategy and the three ablated variants.
-- **Fig. 12** compares the MeanObj improvement and StdObj values before and after incorporating UCB.
 
 ### External benchmark results
 The numerical data underlying **Figs. 14 and 15** are provided with the
