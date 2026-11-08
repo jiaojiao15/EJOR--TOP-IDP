@@ -89,7 +89,22 @@ Independent runs per stochastic algorithm	10
 Computational threads	1
 Additional parameter definitions are provided in Table 2 and the corresponding methodological sections of the paper.
 
-4. TOP-IDP instance format
+4. Main parameter settings
+The principal parameters used in the experiments are:
+
+Parameter	Value
+Initial greediness parameter (StartGreed)	0.89
+Final greediness parameter (EndGreed)	0.59
+Greediness decrement (GreedDecrease)	0.1
+Temporal discretization step	10 s
+UCB exploration coefficient	2
+Restricted PG-GRILS iteration limit	1,000
+CPLEX time limit	10,800 s
+Independent runs per stochastic algorithm	10
+Computational threads	1
+Additional parameter definitions are provided in Table 2 and the corresponding methodological sections of the paper.
+
+5. TOP-IDP instance format
 Each TOP-IDP instance contains the information required to construct the routing and temporal-profit problem, including:
 number of customers;
 number of vehicles;
@@ -100,7 +115,7 @@ service time windows;
 service durations;
 interval boundaries;
 
-5. Relationship between repository results and the paper
+6. Relationship between repository results and the paper
 This repository contains two Excel workbooks providing the instance-level and run-level numerical results underlying the tables and figures reported in the manuscript.
 
 ### Workbook 1: `Baseline Results.xlsx`
